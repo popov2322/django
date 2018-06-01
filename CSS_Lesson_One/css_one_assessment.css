@@ -1,0 +1,47 @@
+body{
+  background-color: #b0e0e6;
+}
+
+h1{
+  color: black;
+  border: 1px black solid;
+}
+
+h2{
+  color: purple;
+}
+
+#li_1{
+  color: purple;
+  text-decoration: overline;
+}
+
+#text_input1{
+  border: 5px solid grey;
+  width: 800px;
+  height: 400px;
+}
+
+input{
+  border: 2px solid rgb(144, 0, 0);
+}
+
+div p{
+  background-color: #fffca5;
+}
+
+.feedback{
+  background-color: blue;
+  border: 4px dashed yellow;
+}
+
+a{
+  color: red;
+
+}
+
+
+
+a:hover{
+  color: green;
+}

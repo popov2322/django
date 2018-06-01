@@ -1,0 +1,19 @@
+.firstDIv{
+  color: red;
+}
+
+.secondDIv{
+  color: pink;
+}
+
+#singledout{
+   color: green;
+   text-decoration: overline;
+}
+
+h3 + ul{
+  text-shadow: -1;
+  text-decoration-style: double;
+}
+
+li a[href]

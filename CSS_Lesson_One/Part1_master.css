@@ -1,0 +1,25 @@
+/* selected tag{
+  property: value;
+} */
+body{
+  background: url(https://i.ytimg.com/vi/HiozRS_ESkI/maxresdefault.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div{
+  background-color: green;
+  border-color: blue;
+  border-width: 10px;
+  border-style: solid;
+}
+
+p{
+  color: black;
+  scroll-behavior: smooth;
+}
+
+span{
+  color: black;
+  background: red;
+}

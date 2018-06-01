@@ -1,0 +1,15 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    color: #FDFFFC;
+    text-align: center;
+    background-color: #011627;
+    border: 60px solid #2EC4B6;
+    border-top: 0;
+    /*border-bottom: 0px;*/
+    margin: 0;
+}
+
+h2{
+ margin-bottom: 5%;
+}
